@@ -3,6 +3,7 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.7">
       <module name="Task05A.app" target="11" />
+      <module name="Task05A.testlib" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
